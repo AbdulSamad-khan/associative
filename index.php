@@ -1,4 +1,5 @@
 <?php
+// i have been coding in this php file
 $array = array(
 'name' => "Abdul samad",
 'profession' => "Student",
@@ -16,5 +17,5 @@ $array = array(
 );
 echo "Name" . $array['name'] . "Profession" . $array['profession'] . "Age" . $array['age'] . "<br>";
 echo $array['Bachelor']['BSSE'];
-echo 
+echo
  ?>
